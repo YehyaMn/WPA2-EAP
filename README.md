@@ -68,7 +68,7 @@ This guide provides a step-by-step process to configure **MikroTik as a WPA2-EAP
 
 ---
 
-## **3. Configure Windows Clients**
+## **3. Configure Windows Clients or Phone wifi**
 1. On the Windows client, go to **Wi-Fi settings**.
 2. Select the **Enterprise-WiFi** SSID.
 3. Choose **WPA2-Enterprise with PEAP**.
